@@ -29,10 +29,6 @@ of the functions.
 
 **Sources**: My final project is based on assignment T13.
 
-
-**Completed CRC card for the class you will implement**:  
-![alt text](/image/Final_CRC_card.png "Image of CRC card as an example. Upload your CRC card(s) in place of this one")
-
 ---
 
 ## Milestone 2: Code
