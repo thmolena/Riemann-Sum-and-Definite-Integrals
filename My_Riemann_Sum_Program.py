@@ -4,7 +4,7 @@
 #
 # Final Project P01: Riemann Sum of Linear functions from -5 to 5
 #
-# Purpose:  Demonstrate the collaboration between classes, such as using a point to create a rectangle
+# Purpose:  Demonstrate the collaboration between classes and objects
 ######################################################################
 # Acknowledgements:
 #
