@@ -7,8 +7,6 @@
 **Section**: B
 
 **References**: 
-* Dr. Emily Lovell
-* Dr. Scott Heggen
 * Assignment T13
 * Python » 3.3.7 Documentation » The Python Standard Library » 24. Program Frameworks » at 
 https://docs.python.org/3.3/library/turtle.html?highlight=turtle 
