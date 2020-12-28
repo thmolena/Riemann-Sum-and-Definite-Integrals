@@ -2,7 +2,7 @@
 
 **Term**: Fall 2019
 
-**Author(s)**: Thy H. Nguyen
+**Author(s)**: Thy (Molena) Hoang-Xuan Nguyen
 
 **Section**: B
 
