@@ -1,4 +1,4 @@
-# P01: Riemann Sum of Linear functions from -5 to 5
+# Riemann Sum of Linear functions from -5 to 5
 
 **Term**: Fall 2019
 
